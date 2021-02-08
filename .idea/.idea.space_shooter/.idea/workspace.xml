@@ -1,0 +1,492 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d223a197-0cd8-4f9b-b85a-915ec8f93d8f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.space_shooter/.idea/.idea.space_shooter.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.space_shooter/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.space_shooter/.idea/contentModel.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.space_shooter/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.space_shooter/.idea/indexLayout.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.space_shooter/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.space_shooter/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.space_shooter/.idea/projectSettingsUpdater.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.space_shooter/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.space_shooter/riderModule.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/IndiePixel_Framework.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/IndiePixel_Framework/Core.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/IndiePixel_Framework/Core/Art.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/IndiePixel_Framework/Core/Art/Audio.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/IndiePixel_Framework/Core/Art/Audio/UI.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/IndiePixel_Framework/Core/Art/Audio/UI/NavSingle.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/IndiePixel_Framework/Core/Art/Audio/UI/NavSingle.wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/IndiePixel_Framework/Core/Art/Audio/UI/Select.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/IndiePixel_Framework/Core/Art/Audio/UI/Select.wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/IndiePixel_Framework/Core/Art/Grids.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/IndiePixel_Framework/Core/Art/Grids/Orange_Grid_MAT.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/IndiePixel_Framework/Core/Art/Grids/Orange_Grid_MAT.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/IndiePixel_Framework/Core/Art/Grids/orange-grid.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/IndiePixel_Framework/Core/Art/Grids/orange-grid.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/IndiePixel_Framework/Core/Art/Objects.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/IndiePixel_Framework/Core/Art/Objects/Default_Syke.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/IndiePixel_Framework/Core/Art/Objects/Default_Syke.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/IndiePixel_Framework/Core/Art/Objects/Materials.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/IndiePixel_Framework/Core/Art/Objects/Materials/phong1.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/IndiePixel_Framework/Core/Art/Objects/Materials/phong1.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/IndiePixel_Framework/Core/Art/UI.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/IndiePixel_Framework/Core/Art/UI/Loading_Spinners.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/IndiePixel_Framework/Core/Art/UI/Loading_Spinners/back-icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/IndiePixel_Framework/Core/Art/UI/Loading_Spinners/back-icon.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/IndiePixel_Framework/Core/Art/UI/Loading_Spinners/circle-icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/IndiePixel_Framework/Core/Art/UI/Loading_Spinners/circle-icon.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/IndiePixel_Framework/Core/Art/UI/Loading_Spinners/loading_spinner_001.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/IndiePixel_Framework/Core/Art/UI/Loading_Spinners/loading_spinner_001.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/IndiePixel_Framework/Core/Art/UI/Users-User-icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/IndiePixel_Framework/Core/Art/UI/Users-User-icon.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/IndiePixel_Framework/Core/Art/UI/arrow-001.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/IndiePixel_Framework/Core/Art/UI/arrow-001.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/IndiePixel_Framework/Core/Art/UI/bg-border-white.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/IndiePixel_Framework/Core/Art/UI/bg-border-white.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/IndiePixel_Framework/Core/Art/UI/bg-white.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/IndiePixel_Framework/Core/Art/UI/bg-white.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/IndiePixel_Framework/Core/Art/UI/btn-full-radius-white-border.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/IndiePixel_Framework/Core/Art/UI/btn-full-radius-white-border.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/IndiePixel_Framework/Core/Art/UI/btn-full-radius-white.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/IndiePixel_Framework/Core/Art/UI/btn-full-radius-white.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/IndiePixel_Framework/Core/Art/UI/close-icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/IndiePixel_Framework/Core/Art/UI/close-icon.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/IndiePixel_Framework/Core/Art/UI/color_picker.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/IndiePixel_Framework/Core/Art/UI/color_picker.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/IndiePixel_Framework/Core/Art/UI/info-2-xxl.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/IndiePixel_Framework/Core/Art/UI/info-2-xxl.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/IndiePixel_Framework/Core/Art/UI/menu-icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/IndiePixel_Framework/Core/Art/UI/menu-icon.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/IndiePixel_Framework/Core/Art/UI/profile-edit.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/IndiePixel_Framework/Core/Art/UI/profile-edit.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/IndiePixel_Framework/Core/Art/UI/settings-closeX.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/IndiePixel_Framework/Core/Art/UI/settings-closeX.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/IndiePixel_Framework/Core/Art/UI/settings-facebook.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/IndiePixel_Framework/Core/Art/UI/settings-facebook.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/IndiePixel_Framework/Core/Art/UI/settings-musicOff.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/IndiePixel_Framework/Core/Art/UI/settings-musicOff.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/IndiePixel_Framework/Core/Art/UI/settings-musicOn.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/IndiePixel_Framework/Core/Art/UI/settings-musicOn.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/IndiePixel_Framework/Core/Art/UI/settings-notificationsOff.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/IndiePixel_Framework/Core/Art/UI/settings-notificationsOff.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/IndiePixel_Framework/Core/Art/UI/settings-notificationsOn.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/IndiePixel_Framework/Core/Art/UI/settings-notificationsOn.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/IndiePixel_Framework/Core/Art/UI/settings-soundOff.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/IndiePixel_Framework/Core/Art/UI/settings-soundOff.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/IndiePixel_Framework/Core/Art/UI/settings-soundOn.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/IndiePixel_Framework/Core/Art/UI/settings-soundOn.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/IndiePixel_Framework/Core/Art/UI/submachine_gun_filled1600.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/IndiePixel_Framework/Core/Art/UI/submachine_gun_filled1600.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/IndiePixel_Framework/Core/Code.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/IndiePixel_Framework/Core/Code/Cameras.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/IndiePixel_Framework/Core/Code/Cameras/IP_CameraSwitcher_Util.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/IndiePixel_Framework/Core/Code/Cameras/IP_CameraSwitcher_Util.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/IndiePixel_Framework/Core/Code/Cameras/IP_RotateAroundPoint_Util.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/IndiePixel_Framework/Core/Code/Cameras/IP_RotateAroundPoint_Util.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/IndiePixel_Framework/Core/Code/Data.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/IndiePixel_Framework/Core/Code/Data/IP_Player_Data.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/IndiePixel_Framework/Core/Code/Data/IP_Player_Data.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/IndiePixel_Framework/Core/Code/Editor.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/IndiePixel_Framework/Core/Code/Editor/Camera_Helper.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/IndiePixel_Framework/Core/Code/Editor/Camera_Helper/IP_Camera_Helpers.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/IndiePixel_Framework/Core/Code/Editor/Camera_Helper/IP_Camera_Helpers.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/IndiePixel_Framework/Core/Code/Editor/Designer_Dashboard.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/IndiePixel_Framework/Core/Code/Editor/Designer_Dashboard/IP_DesignerDash_Window.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/IndiePixel_Framework/Core/Code/Editor/Designer_Dashboard/IP_DesignerDash_Window.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/IndiePixel_Framework/Core/Code/Editor/Editor_UI.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/IndiePixel_Framework/Core/Code/Editor/Editor_UI/Emortal_Editor_GUISkin.guiskin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/IndiePixel_Framework/Core/Code/Editor/Editor_UI/Emortal_Editor_GUISkin.guiskin.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/IndiePixel_Framework/Core/Code/Editor/Editor_UI/Emortal_Inspector_GUISkin.guiskin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/IndiePixel_Framework/Core/Code/Editor/Editor_UI/Emortal_Inspector_GUISkin.guiskin.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/IndiePixel_Framework/Core/Code/Editor/Editor_UI/Fonts.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/IndiePixel_Framework/Core/Code/Editor/Editor_UI/Fonts/OpenSans-Bold.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/IndiePixel_Framework/Core/Code/Editor/Editor_UI/Fonts/OpenSans-Bold.ttf.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/IndiePixel_Framework/Core/Code/Editor/Editor_UI/Fonts/OpenSans-BoldItalic.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/IndiePixel_Framework/Core/Code/Editor/Editor_UI/Fonts/OpenSans-BoldItalic.ttf.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/IndiePixel_Framework/Core/Code/Editor/Editor_UI/Fonts/OpenSans-ExtraBold.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/IndiePixel_Framework/Core/Code/Editor/Editor_UI/Fonts/OpenSans-ExtraBold.ttf.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/IndiePixel_Framework/Core/Code/Editor/Editor_UI/Fonts/OpenSans-ExtraBoldItalic.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/IndiePixel_Framework/Core/Code/Editor/Editor_UI/Fonts/OpenSans-ExtraBoldItalic.ttf.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/IndiePixel_Framework/Core/Code/Editor/Editor_UI/Fonts/OpenSans-Italic.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/IndiePixel_Framework/Core/Code/Editor/Editor_UI/Fonts/OpenSans-Italic.ttf.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/IndiePixel_Framework/Core/Code/Editor/Editor_UI/Fonts/OpenSans-Light.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/IndiePixel_Framework/Core/Code/Editor/Editor_UI/Fonts/OpenSans-Light.ttf.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/IndiePixel_Framework/Core/Code/Editor/Editor_UI/Fonts/OpenSans-LightItalic.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/IndiePixel_Framework/Core/Code/Editor/Editor_UI/Fonts/OpenSans-LightItalic.ttf.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/IndiePixel_Framework/Core/Code/Editor/Editor_UI/Fonts/OpenSans-Regular.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/IndiePixel_Framework/Core/Code/Editor/Editor_UI/Fonts/OpenSans-Regular.ttf.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/IndiePixel_Framework/Core/Code/Editor/Editor_UI/Fonts/OpenSans-Semibold.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/IndiePixel_Framework/Core/Code/Editor/Editor_UI/Fonts/OpenSans-Semibold.ttf.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/IndiePixel_Framework/Core/Code/Editor/Editor_UI/Fonts/OpenSans-SemiboldItalic.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/IndiePixel_Framework/Core/Code/Editor/Editor_UI/Fonts/OpenSans-SemiboldItalic.ttf.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/IndiePixel_Framework/Core/Code/Editor/Editor_UI/Textures.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/IndiePixel_Framework/Core/Code/Editor/Editor_UI/Textures/bg-dark-001.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/IndiePixel_Framework/Core/Code/Editor/Editor_UI/Textures/bg-dark-001.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/IndiePixel_Framework/Core/Code/Editor/Editor_UI/Textures/bg-dark-002.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/IndiePixel_Framework/Core/Code/Editor/Editor_UI/Textures/bg-dark-002.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/IndiePixel_Framework/Core/Code/Editor/Editor_UI/Textures/bg-gray-001.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/IndiePixel_Framework/Core/Code/Editor/Editor_UI/Textures/bg-gray-001.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/IndiePixel_Framework/Core/Code/Editor/Editor_UI/Textures/bg-gray-002.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/IndiePixel_Framework/Core/Code/Editor/Editor_UI/Textures/bg-gray-002.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/IndiePixel_Framework/Core/Code/Editor/Editor_UI/Textures/bg-gray-003.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/IndiePixel_Framework/Core/Code/Editor/Editor_UI/Textures/bg-gray-003.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/IndiePixel_Framework/Core/Code/Editor/Editor_UI/Textures/bg-white-4px-br.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/IndiePixel_Framework/Core/Code/Editor/Editor_UI/Textures/bg-white-4px-br.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/IndiePixel_Framework/Core/Code/Editor/Editor_UI/Textures/box-dark-001.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/IndiePixel_Framework/Core/Code/Editor/Editor_UI/Textures/box-dark-001.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/IndiePixel_Framework/Core/Code/Editor/Editor_UI/Textures/box-dark-002.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/IndiePixel_Framework/Core/Code/Editor/Editor_UI/Textures/box-dark-002.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/IndiePixel_Framework/Core/Code/Editor/Editor_UI/Textures/btn-5px_br.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/IndiePixel_Framework/Core/Code/Editor/Editor_UI/Textures/btn-5px_br.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/IndiePixel_Framework/Core/Code/Editor/Editor_UI/Textures/btn-5px_br_solid.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/IndiePixel_Framework/Core/Code/Editor/Editor_UI/Textures/btn-5px_br_solid.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/IndiePixel_Framework/Core/Code/Editor/Editor_UI/Textures/emortal_logo_editor.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/IndiePixel_Framework/Core/Code/Editor/Editor_UI/Textures/emortal_logo_editor.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/IndiePixel_Framework/Core/Code/Editor/Editor_UI/Textures/indie-pixel-icon_32px.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/IndiePixel_Framework/Core/Code/Editor/Editor_UI/Textures/indie-pixel-icon_32px.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/IndiePixel_Framework/Core/Code/Editor/Editor_UI/Textures/input-field-bg-001.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/IndiePixel_Framework/Core/Code/Editor/Editor_UI/Textures/input-field-bg-001.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/IndiePixel_Framework/Core/Code/Editor/IP_Base_Window.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/IndiePixel_Framework/Core/Code/Editor/IP_Base_Window.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/IndiePixel_Framework/Core/Code/Editor/IP_Menus.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/IndiePixel_Framework/Core/Code/Editor/IP_Menus.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/IndiePixel_Framework/Core/Code/Editor/Level_Tools.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/IndiePixel_Framework/Core/Code/Editor/Level_Tools/OBJ_Export.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/IndiePixel_Framework/Core/Code/Editor/Level_Tools/OBJ_Export/IP_OBJ_Export.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/IndiePixel_Framework/Core/Code/Editor/Level_Tools/OBJ_Export/IP_OBJ_Export.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/IndiePixel_Framework/Core/Code/Editor/Level_Tools/Object_Replacer.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/IndiePixel_Framework/Core/Code/Editor/Level_Tools/Object_Replacer/IP_ObjectReplacer_Window.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/IndiePixel_Framework/Core/Code/Editor/Level_Tools/Object_Replacer/IP_ObjectReplacer_Window.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/IndiePixel_Framework/Core/Code/Editor/Level_Tools/Vertex_Painter.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/IndiePixel_Framework/Core/Code/Editor/Level_Tools/Vertex_Painter/Art.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/IndiePixel_Framework/Core/Code/Editor/Level_Tools/Vertex_Painter/Art/EF_MeshPainter_VTXColor.shader" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/IndiePixel_Framework/Core/Code/Editor/Level_Tools/Vertex_Painter/Art/EF_MeshPainter_VTXColor.shader.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/IndiePixel_Framework/Core/Code/Editor/Level_Tools/Vertex_Painter/Art/Materials.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/IndiePixel_Framework/Core/Code/Editor/Level_Tools/Vertex_Painter/Art/Materials/lambert1.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/IndiePixel_Framework/Core/Code/Editor/Level_Tools/Vertex_Painter/Art/Materials/lambert1.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/IndiePixel_Framework/Core/Code/Editor/Level_Tools/Vertex_Painter/Art/Vertex_Color_MAT.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/IndiePixel_Framework/Core/Code/Editor/Level_Tools/Vertex_Painter/Art/Vertex_Color_MAT.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/IndiePixel_Framework/Core/Code/Editor/Level_Tools/Vertex_Painter/Art/default_grid.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/IndiePixel_Framework/Core/Code/Editor/Level_Tools/Vertex_Painter/Art/default_grid.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/IndiePixel_Framework/Core/Code/Editor/Level_Tools/Vertex_Painter/Fonts.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/IndiePixel_Framework/Core/Code/Editor/Level_Tools/Vertex_Painter/Fonts/Futura_Bk_BT_Book_Italic1_0.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/IndiePixel_Framework/Core/Code/Editor/Level_Tools/Vertex_Painter/Fonts/Futura_Bk_BT_Book_Italic1_0.ttf.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/IndiePixel_Framework/Core/Code/Editor/Level_Tools/Vertex_Painter/Fonts/Futura_Black_Narrow_0.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/IndiePixel_Framework/Core/Code/Editor/Level_Tools/Vertex_Painter/Fonts/Futura_Black_Narrow_0.ttf.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/IndiePixel_Framework/Core/Code/Editor/Level_Tools/Vertex_Painter/Fonts/Futura_Bold_Condensed_BT.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/IndiePixel_Framework/Core/Code/Editor/Level_Tools/Vertex_Painter/Fonts/Futura_Bold_Condensed_BT.ttf.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/IndiePixel_Framework/Core/Code/Editor/Level_Tools/Vertex_Painter/Fonts/Futura_Bold_Italic_BT_0.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/IndiePixel_Framework/Core/Code/Editor/Level_Tools/Vertex_Painter/Fonts/Futura_Bold_Italic_BT_0.ttf.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/IndiePixel_Framework/Core/Code/Editor/Level_Tools/Vertex_Painter/Fonts/Futura_Book_BT_0.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/IndiePixel_Framework/Core/Code/Editor/Level_Tools/Vertex_Painter/Fonts/Futura_Book_BT_0.ttf.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/IndiePixel_Framework/Core/Code/Editor/Level_Tools/Vertex_Painter/Fonts/Futura_Exblk__bd_cd_it_BT_0.TTF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/IndiePixel_Framework/Core/Code/Editor/Level_Tools/Vertex_Painter/Fonts/Futura_Exblk__bd_cd_it_BT_0.TTF.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/IndiePixel_Framework/Core/Code/Editor/Level_Tools/Vertex_Painter/Fonts/Futura_Light-Normal_0.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/IndiePixel_Framework/Core/Code/Editor/Level_Tools/Vertex_Painter/Fonts/Futura_Light-Normal_0.ttf.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/IndiePixel_Framework/Core/Code/Editor/Level_Tools/Vertex_Painter/Fonts/Futura_Medium_0.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/IndiePixel_Framework/Core/Code/Editor/Level_Tools/Vertex_Painter/Fonts/Futura_Medium_0.ttf.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/IndiePixel_Framework/Core/Code/Editor/Level_Tools/Vertex_Painter/Fonts/Futura_Medium_BT.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/IndiePixel_Framework/Core/Code/Editor/Level_Tools/Vertex_Painter/Fonts/Futura_Medium_BT.ttf.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/IndiePixel_Framework/Core/Code/Editor/Level_Tools/Vertex_Painter/Fonts/Futura_Thin_0.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/IndiePixel_Framework/Core/Code/Editor/Level_Tools/Vertex_Painter/Fonts/Futura_Thin_0.ttf.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/IndiePixel_Framework/Core/Code/Editor/Level_Tools/Vertex_Painter/Fonts/Futura_bd_cd_BT_0.TTF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/IndiePixel_Framework/Core/Code/Editor/Level_Tools/Vertex_Painter/Fonts/Futura_bd_cd_BT_0.TTF.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/IndiePixel_Framework/Core/Code/Editor/Level_Tools/Vertex_Painter/Fonts/Futura_med_cond_bd_BT_0.TTF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/IndiePixel_Framework/Core/Code/Editor/Level_Tools/Vertex_Painter/Fonts/Futura_med_cond_bd_BT_0.TTF.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/IndiePixel_Framework/Core/Code/Editor/Level_Tools/Vertex_Painter/IP_VertexPainter_Data.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/IndiePixel_Framework/Core/Code/Editor/Level_Tools/Vertex_Painter/IP_VertexPainter_Data.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/IndiePixel_Framework/Core/Code/Editor/Level_Tools/Vertex_Painter/IP_VertexPainter_Utils.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/IndiePixel_Framework/Core/Code/Editor/Level_Tools/Vertex_Painter/IP_VertexPainter_Utils.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/IndiePixel_Framework/Core/Code/Editor/Level_Tools/Vertex_Painter/IP_VertexPainter_Window.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/IndiePixel_Framework/Core/Code/Editor/Level_Tools/Vertex_Painter/IP_VertexPainter_Window.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/IndiePixel_Framework/Core/Code/Editor/Level_Tools/Vertex_Painter/Resources.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/IndiePixel_Framework/Core/Code/Editor/Level_Tools/Vertex_Painter/Resources/EF_VertexPainter_Skin.guiskin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/IndiePixel_Framework/Core/Code/Editor/Level_Tools/Vertex_Painter/Resources/EF_VertexPainter_Skin.guiskin.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/IndiePixel_Framework/Core/Code/Editor/Level_Tools/Vertex_Painter/Resources/Materials.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/IndiePixel_Framework/Core/Code/Editor/Level_Tools/Vertex_Painter/Resources/Materials/GG_MeshPainter_VTXColor_MAT.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/IndiePixel_Framework/Core/Code/Editor/Level_Tools/Vertex_Painter/Resources/Materials/GG_MeshPainter_VTXColor_MAT.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/IndiePixel_Framework/Core/Code/Editor/Level_Tools/Vertex_Painter/Resources/UnityEditor_Wireframe_GUI_Layout.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/IndiePixel_Framework/Core/Code/Editor/Level_Tools/Vertex_Painter/Resources/UnityEditor_Wireframe_GUI_Layout.psd.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/IndiePixel_Framework/Core/Code/Editor/Level_Tools/Vertex_Painter/Resources/editor_wireframe_bg_gray004.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/IndiePixel_Framework/Core/Code/Editor/Level_Tools/Vertex_Painter/Resources/editor_wireframe_bg_gray004.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/IndiePixel_Framework/Core/Code/Editor/Level_Tools/Vertex_Painter/Resources/editor_wireframe_bg_gray004_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/IndiePixel_Framework/Core/Code/Editor/Level_Tools/Vertex_Painter/Resources/editor_wireframe_bg_gray004_2.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/IndiePixel_Framework/Core/Code/Editor/Level_Tools/Vertex_Painter/Resources/editor_wireframe_bg_gray005.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/IndiePixel_Framework/Core/Code/Editor/Level_Tools/Vertex_Painter/Resources/editor_wireframe_bg_gray005.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/IndiePixel_Framework/Core/Code/Editor/Level_Tools/Vertex_Painter/Resources/editor_wireframe_bg_gray005_borderTop.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/IndiePixel_Framework/Core/Code/Editor/Level_Tools/Vertex_Painter/Resources/editor_wireframe_bg_gray005_borderTop.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/IndiePixel_Framework/Core/Code/Editor/Level_Tools/Vertex_Painter/Resources/editor_wireframe_bg_gray005_borderTopBottom.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/IndiePixel_Framework/Core/Code/Editor/Level_Tools/Vertex_Painter/Resources/editor_wireframe_bg_gray005_borderTopBottom.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/IndiePixel_Framework/Core/Code/Editor/Level_Tools/Vertex_Painter/Resources/editor_wireframe_bg_gray006.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/IndiePixel_Framework/Core/Code/Editor/Level_Tools/Vertex_Painter/Resources/editor_wireframe_bg_gray006.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/IndiePixel_Framework/Core/Code/Editor/Level_Tools/Vertex_Painter/Resources/editor_wireframe_bg_gray006_BorderTopBottom.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/IndiePixel_Framework/Core/Code/Editor/Level_Tools/Vertex_Painter/Resources/editor_wireframe_bg_gray006_BorderTopBottom.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/IndiePixel_Framework/Core/Code/Editor/Level_Tools/Vertex_Painter/Resources/editor_wireframe_bg_gray007.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/IndiePixel_Framework/Core/Code/Editor/Level_Tools/Vertex_Painter/Resources/editor_wireframe_bg_gray007.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/IndiePixel_Framework/Core/Code/Editor/Project_Helper.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/IndiePixel_Framework/Core/Code/Editor/Project_Helper/IP_ProjectFolders_Window.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/IndiePixel_Framework/Core/Code/Editor/Project_Helper/IP_ProjectFolders_Window.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/IndiePixel_Framework/Core/Code/Editor/Scene_Helper.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/IndiePixel_Framework/Core/Code/Editor/Scene_Helper/IP_Grouping_Window.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/IndiePixel_Framework/Core/Code/Editor/Scene_Helper/IP_Grouping_Window.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/IndiePixel_Framework/Core/Code/Editor/Scene_Helper/IP_Scene_Helpers.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/IndiePixel_Framework/Core/Code/Editor/Scene_Helper/IP_Scene_Helpers.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/IndiePixel_Framework/Core/Code/Editor/Scene_Helper/IP_UI_Helpers.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/IndiePixel_Framework/Core/Code/Editor/Scene_Helper/IP_UI_Helpers.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/IndiePixel_Framework/Core/Code/Editor/Utils.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/IndiePixel_Framework/Core/Code/Editor/Utils/IP_Editor_Utils.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/IndiePixel_Framework/Core/Code/Editor/Utils/IP_Editor_Utils.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/IndiePixel_Framework/Core/Code/FX.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/IndiePixel_Framework/Core/Code/FX/Cloth.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/IndiePixel_Framework/Core/Code/FX/Cloth/IP_ClothWind.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/IndiePixel_Framework/Core/Code/FX/Cloth/IP_ClothWind.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/IndiePixel_Framework/Core/Code/Input.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/IndiePixel_Framework/Core/Code/Input/Editor.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/IndiePixel_Framework/Core/Code/Input/Editor/IP_MouseInput_Editor.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/IndiePixel_Framework/Core/Code/Input/Editor/IP_MouseInput_Editor.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/IndiePixel_Framework/Core/Code/Input/IP_Global_Input.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/IndiePixel_Framework/Core/Code/Input/IP_Global_Input.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/IndiePixel_Framework/Core/Code/Input/IP_Keyboard_Input.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/IndiePixel_Framework/Core/Code/Input/IP_Keyboard_Input.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/IndiePixel_Framework/Core/Code/Input/IP_Mouse_Input.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/IndiePixel_Framework/Core/Code/Input/IP_Mouse_Input.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/IndiePixel_Framework/Core/Code/Input/IP_Touch_Input.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/IndiePixel_Framework/Core/Code/Input/IP_Touch_Input.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/IndiePixel_Framework/Core/Code/Input/IP_Xbox_Input.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/IndiePixel_Framework/Core/Code/Input/IP_Xbox_Input.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/IndiePixel_Framework/Core/Code/Managers.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/IndiePixel_Framework/Core/Code/Managers/IP_Game_Manager.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/IndiePixel_Framework/Core/Code/Managers/IP_Game_Manager.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/IndiePixel_Framework/Core/Code/Shaders.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/IndiePixel_Framework/Core/Code/Shaders/IP_Basic_LitVertexColor.shader" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/IndiePixel_Framework/Core/Code/Shaders/IP_Basic_LitVertexColor.shader.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/IndiePixel_Framework/Sequence.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/IndiePixel_Framework/Sequence/Editor.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/IndiePixel_Framework/Sequence/Editor/IP_GameSequence_Editor.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/IndiePixel_Framework/Sequence/Editor/IP_GameSequence_Editor.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/IndiePixel_Framework/Sequence/Editor/IP_Sequence_Menu.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/IndiePixel_Framework/Sequence/Editor/IP_Sequence_Menu.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/IndiePixel_Framework/Sequence/IP_Action.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/IndiePixel_Framework/Sequence/IP_Action.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/IndiePixel_Framework/Sequence/IP_Game_Sequence.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/IndiePixel_Framework/Sequence/IP_Game_Sequence.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/IndiePixel_Framework/UI.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/IndiePixel_Framework/UI/Code.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/IndiePixel_Framework/UI/Code/Components.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/IndiePixel_Framework/UI/Code/Components/IP_Header_Manager.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/IndiePixel_Framework/UI/Code/Components/IP_Header_Manager.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/IndiePixel_Framework/UI/Code/Components/IP_HealthBar_UI.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/IndiePixel_Framework/UI/Code/Components/IP_HealthBar_UI.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/IndiePixel_Framework/UI/Code/Components/IP_Item_Button.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/IndiePixel_Framework/UI/Code/Components/IP_Item_Button.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/IndiePixel_Framework/UI/Code/Components/IP_Menu_Manager.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/IndiePixel_Framework/UI/Code/Components/IP_Menu_Manager.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/IndiePixel_Framework/UI/Code/IP_Base_Screen.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/IndiePixel_Framework/UI/Code/IP_Base_Screen.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/IndiePixel_Framework/UI/Code/IP_UI_System.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/IndiePixel_Framework/UI/Code/IP_UI_System.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/IndiePixel_Framework/UI/Code/Loading.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/IndiePixel_Framework/UI/Code/Loading/IP_Loader_Manager.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/IndiePixel_Framework/UI/Code/Loading/IP_Loader_Manager.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/IndiePixel_Framework/UI/Code/Screen_Types.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/IndiePixel_Framework/UI/Code/Screen_Types/IP_Timed_Screen.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/IndiePixel_Framework/UI/Code/Screen_Types/IP_Timed_Screen.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/IndiePixel_Framework/UI/Prefabs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/IndiePixel_Framework/UI/Prefabs/UI_GRP.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/IndiePixel_Framework/UI/Prefabs/UI_GRP.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity.meta" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Space_Shooter/Code/Scripts/LaserController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Space_Shooter/Code/Scripts/PlayerController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Space_Shooter/Code/Scripts/GameManager.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/Space_Shooter/Code/Scripts/GameManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Space_Shooter/Code/Scripts/LaserController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Space_Shooter/Code/Scripts/PlayerController.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1o7MQ9erHzdGn7UviiGEualv2Em" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="DebuggerViewTab_PTCS_FirstProportionKey" value="0.34993178" />
+    <property name="DebuggerViewTab_PTCS_LastProportionKey" value="0.30013642" />
+    <property name="Discover.Launch.Via.Unity" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor &amp; Play">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d223a197-0cd8-4f9b-b85a-915ec8f93d8f" name="Default Changelist" comment="" />
+      <created>1612633158251</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1612633158251</updated>
+      <workItem from="1612633177304" duration="1713000" />
+      <workItem from="1612635007942" duration="144000" />
+      <workItem from="1612635222397" duration="650000" />
+      <workItem from="1612763718844" duration="8077000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="633" y="278" key="#Notifications" timestamp="1612763729456">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="633" y="278" key="#Notifications/0.0.1536.824/-1366.0.1366.728@0.0.1536.824" timestamp="1612633211285" />
+    <state x="633" y="278" key="#Notifications/0.0.1536.824@0.0.1536.824" timestamp="1612763729456" />
+    <state width="1497" height="289" key="GridCell.Tab.0.bottom" timestamp="1612634904607">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1497" height="289" key="GridCell.Tab.0.bottom/0.0.1536.824/-1366.0.1366.728@0.0.1536.824" timestamp="1612634904607" />
+    <state width="1497" height="289" key="GridCell.Tab.0.center" timestamp="1612634904606">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1497" height="289" key="GridCell.Tab.0.center/0.0.1536.824/-1366.0.1366.728@0.0.1536.824" timestamp="1612634904606" />
+    <state width="1497" height="289" key="GridCell.Tab.0.left" timestamp="1612634904606">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1497" height="289" key="GridCell.Tab.0.left/0.0.1536.824/-1366.0.1366.728@0.0.1536.824" timestamp="1612634904606" />
+    <state width="1497" height="289" key="GridCell.Tab.0.right" timestamp="1612634904607">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1497" height="289" key="GridCell.Tab.0.right/0.0.1536.824/-1366.0.1366.728@0.0.1536.824" timestamp="1612634904607" />
+    <state width="1497" height="289" key="GridCell.Tab.1.bottom" timestamp="1612634904607">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1497" height="289" key="GridCell.Tab.1.bottom/0.0.1536.824/-1366.0.1366.728@0.0.1536.824" timestamp="1612634904607" />
+    <state width="1497" height="289" key="GridCell.Tab.1.center" timestamp="1612634904607">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1497" height="289" key="GridCell.Tab.1.center/0.0.1536.824/-1366.0.1366.728@0.0.1536.824" timestamp="1612634904607" />
+    <state width="1497" height="289" key="GridCell.Tab.1.left" timestamp="1612634904607">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1497" height="289" key="GridCell.Tab.1.left/0.0.1536.824/-1366.0.1366.728@0.0.1536.824" timestamp="1612634904607" />
+    <state width="1497" height="289" key="GridCell.Tab.1.right" timestamp="1612634904607">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1497" height="289" key="GridCell.Tab.1.right/0.0.1536.824/-1366.0.1366.728@0.0.1536.824" timestamp="1612634904607" />
+    <state width="1497" height="289" key="GridCell.Tab.2.bottom" timestamp="1612634904607">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1497" height="289" key="GridCell.Tab.2.bottom/0.0.1536.824/-1366.0.1366.728@0.0.1536.824" timestamp="1612634904607" />
+    <state width="1497" height="289" key="GridCell.Tab.2.center" timestamp="1612634904607">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1497" height="289" key="GridCell.Tab.2.center/0.0.1536.824/-1366.0.1366.728@0.0.1536.824" timestamp="1612634904607" />
+    <state width="1497" height="289" key="GridCell.Tab.2.left" timestamp="1612634904607">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1497" height="289" key="GridCell.Tab.2.left/0.0.1536.824/-1366.0.1366.728@0.0.1536.824" timestamp="1612634904607" />
+    <state width="1497" height="289" key="GridCell.Tab.2.right" timestamp="1612634904607">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1497" height="289" key="GridCell.Tab.2.right/0.0.1536.824/-1366.0.1366.728@0.0.1536.824" timestamp="1612634904607" />
+    <state width="1497" height="289" key="GridCell.Tab.3.bottom" timestamp="1612634904608">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1497" height="289" key="GridCell.Tab.3.bottom/0.0.1536.824/-1366.0.1366.728@0.0.1536.824" timestamp="1612634904608" />
+    <state width="1497" height="289" key="GridCell.Tab.3.center" timestamp="1612634904608">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1497" height="289" key="GridCell.Tab.3.center/0.0.1536.824/-1366.0.1366.728@0.0.1536.824" timestamp="1612634904608" />
+    <state width="1497" height="289" key="GridCell.Tab.3.left" timestamp="1612634904607">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1497" height="289" key="GridCell.Tab.3.left/0.0.1536.824/-1366.0.1366.728@0.0.1536.824" timestamp="1612634904607" />
+    <state width="1497" height="289" key="GridCell.Tab.3.right" timestamp="1612634904608">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1497" height="289" key="GridCell.Tab.3.right/0.0.1536.824/-1366.0.1366.728@0.0.1536.824" timestamp="1612634904608" />
+    <state x="307" y="58" key="SettingsEditor" timestamp="1612777804520">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="307" y="58" key="SettingsEditor/0.0.1536.824/-1366.0.1366.728@0.0.1536.824" timestamp="1612635336080" />
+    <state x="307" y="58" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1612777804520" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1612634526876">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824/-1366.0.1366.728@0.0.1536.824" timestamp="1612634526876" />
+  </component>
+</project>
